@@ -26,6 +26,13 @@ export default function Experience() {
       icon: 'fa-solid fa-certificate',
       link: 'https://github.com/Ritik-yadav-934',
     },
+    {
+    title: 'Uber Mentorship Program Certificate',
+    desc: 'Successfully completed the Uber Certified Mentorship Program focused on real-world data analytics and regression-based fare prediction modeling. Gained hands-on experience in data processing, model evaluation, and mentorship from industry experts.',
+    icon: 'fa-solid fa-award',
+    link: 'https://github.com/Ritik-yadav-934/Predict-the-fare-amount-of-future-rides-using-regression-analysis', // link to your Uber project or certificate
+  },
+
   ]
 
   const hackathons = [
