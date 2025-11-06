@@ -95,7 +95,7 @@ export default function Footer() {
         <div className="flex flex-col items-center justify-between gap-3 text-sm text-neutral-500 md:flex-row">
           <p>© {new Date().getFullYear()} Ritik Yadav. All rights reserved.</p>
           <p className="text-neutral-500">
-            Built with ❤️ using <span className="text-primary font-medium">React & TailwindCSS</span>
+            Built By ❤️ <span className="text-primary font-medium">Ritik Yadav</span>
           </p>
         </div>
       </div>
